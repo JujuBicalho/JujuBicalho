@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juliana Bicalho</h1>
 <h3 align="center">A frontend developer from Rio de Janeiro.</h3>
 
-- 🔭 I’m currently working on **studyin first and then create my own project.**
+- 🔭 I’m currently working on **studying first and then create my own project.**
 
 - 🌱 I’m currently learning **React,vue.js and then i'm going to back-end.**
 
