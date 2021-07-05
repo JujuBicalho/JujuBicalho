@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juliana Bicalho</h1>
 <h3 align="center">A frontend developer from Rio de Janeiro.</h3>
 
-- 🌱 I’m currently learning **Fullstack**
+- 🔭 I’m currently working on **studyin first and then create my own project.**
+
+- 🌱 I’m currently learning **React,vue.js and then i'm going to back-end.**
+
+- 👨‍💻 All of my projects are available at ...soon.
+
+- 📝 I regularly write articles on my mind.
+
+- 💬 Ask me about **what do I want for my life.**
 
 - 📫 How to reach me **julianabbicalho@gmail.com**
 
