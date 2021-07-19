@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **studying first and then create my own project.**
 
-- 🌱 I’m currently learning **React,vue.js and then i'm going to back-end.**
+- 🌱 I’m currently learning **front-end and then i'm going to back-end.**
 
 - 👨‍💻 All of my projects are available at ...soon.
 
