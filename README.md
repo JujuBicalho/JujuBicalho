@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juliana Bicalho</h1>
-<h3 align="center">A FullStack developer from Rio de Janeiro</h3>
+<h3 align="center">A backend developer from Rio de Janeiro</h3>
 
 <p align="left"> <a href="https://twitter.com/_jujubicalho" target="blank"><img src="https://img.shields.io/twitter/follow/_jujubicalho?logo=twitter&style=for-the-badge" alt="_jujubicalho" /></a> </p>
 
